@@ -1,4 +1,4 @@
-📚 Bootcamp Big Data: Prácticas de Matemáticas y Estadística.
+## 📚 Bootcamp Big Data: Prácticas de Matemáticas y Estadística.
 - Este repositorio contiene las soluciones detalladas a las prácticas de los módulos de Estadística y Álgebra Lineal correspondientes al programa de Big Data. El objetivo de estos proyectos es aplicar conceptos matemáticos y estadísticos fundamentales mediante la programación en R y Python.
 
 📊 Módulo 1: Estadística con R.
