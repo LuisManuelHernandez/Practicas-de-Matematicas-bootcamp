@@ -3,7 +3,7 @@ Este repositorio contiene las soluciones detalladas a las prácticas de los mód
 El objetivo de estos proyectos es aplicar conceptos matemáticos y estadísticos fundamentales mediante la programación en R y Python.
 
 📊 Módulo 1: Estadística con R
-Archivo: Practica-LuisManuelHernandezCancho.qmd
+Archivo: Practica-Estadistica.qmd
 En esta práctica se realiza un análisis exploratorio y predictivo utilizando un dataset de listados de AirBnB en Madrid.
 
 Puntos Clave:
@@ -12,7 +12,7 @@ Puntos Clave:
 - Tratamiento de NAs: Implementación de técnicas para rellenar valores faltantes mediante las predicciones del modelo ajustado.
 
 📐 Módulo 2: Álgebra Lineal con Python
-Archivo: ALG-PRACTICA_propuestaresuelto.ipynb
+Archivo: Practica-Algebra.ipynb
 Esta práctica se centra en la implementación de algoritmos de Regresión Lineal desde una perspectiva algebraica, utilizando el dataset Auto MPG del repositorio UC Irvine.
 
 Puntos Clave:
